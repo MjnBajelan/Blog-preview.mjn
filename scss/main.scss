@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: figter;
+}
+@font-face {
+    font-family:figter1 ;
+    src: url(../fonts/Figtree-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family:figter ;
+    src: url(../fonts/Figtree-VariableFont_wght.ttf);
+}
+@import "./partial/xxl.scss";
+@import "./partial/xl.scss";
+@import "./partial/lg.scss";
+@import "./partial/md.scss";
+@import "./partial/sm.scss";
+@import "./partial/xs.scss";

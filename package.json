@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.71.1"
+  },
+  "name": "03blog-preview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch scss/ -o css/ --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
